@@ -1,2 +1,3 @@
-# sea-api
-seadex api
+# SeaDEX API
+
+https://www.seadex.org
